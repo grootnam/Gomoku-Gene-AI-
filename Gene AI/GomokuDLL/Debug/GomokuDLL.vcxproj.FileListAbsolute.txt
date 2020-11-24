@@ -1,0 +1,2 @@
+C:\Users\김근남\Desktop\GameProgramming\Gene AI\GomokuDLL\Debug\GomokuDLL.dll
+C:\Users\김근남\Desktop\GameProgramming\Gene AI\GomokuDLL\Debug\GomokuDLL.pdb
